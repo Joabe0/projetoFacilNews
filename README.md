@@ -1,8 +1,5 @@
 # FacilnewsApp
 
-Projeto Entra21 - Blusoft 2021
-
-https://leonardoldsz.github.io/facilnews-front/
 
 Sistema centralizador de notícias utilizando a API do Google (https://newsapi.org/), sendo tais notícias filtradas pelas categorias: Economia, Ciência, Esportes, Saúde, Tecnologia, Entretenimento, Negócios, Notícias Gerais, Santa Catarina e Blumenau.
 O objetivo desse sistema é facilitar a assessibilidade a informação de pessoas de terceira idade, mediante uma interface simples e intuitiva, com a possibilidade de acessar a noticia na íntegra, bem como de compartilhar com seus contatos via Facebook e Whatsapp. Outro objetivo desse sistema, é demonstrar para as pessoas de terceira, que elas também tem a capacidade de utilizar a tecnologia por conta propria, sem precisar depender de terceiros.
